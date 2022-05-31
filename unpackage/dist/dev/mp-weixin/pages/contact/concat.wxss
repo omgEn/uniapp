@@ -1,0 +1,10 @@
+
+.box.data-v-0898b1c8 {
+	width: 100px;
+	height: 100px;
+	background-color: #4CD964;
+}
+.box-active.data-v-0898b1c8 {
+	background-color: #808080;
+}
+

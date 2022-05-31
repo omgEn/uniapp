@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/message/index",
+    "pages/index/index",
+    "pages/contact/concat",
+    "pages/detail/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "Creality",
+    "navigationBarBackgroundColor": "#FFEEDD",
+    "backgroundColor": "#F8F8F8",
+    "enablePullDownRefresh": true,
+    "backgroundTextStyle": "light"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "信息",
+        "pagePath": "pages/message/index"
+      },
+      {
+        "text": "我们",
+        "pagePath": "pages/contact/concat"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
